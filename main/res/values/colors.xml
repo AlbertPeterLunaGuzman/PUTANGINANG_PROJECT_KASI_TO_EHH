@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- onboarding___sign_in colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+	<color name="purple_200">#FFBB86FC</color>
+	<color name="purple_500">#FF6200EE</color>
+	<color name="purple_700">#FF3700B3</color>
+	<color name="teal_200">#FF03DAC5</color>
+	<color name="teal_700">#FF018786</color>
+	<color name="black">#FF000000</color>
+	<color name="white">#FFFFFFFF</color>
+
+	<color name="_bg__onboarding___sign_in_ek2_color">#111827</color>
+	<color name="label_color">#6B7280</color>
+	<color name="_bg__button_ek1_color">#1F48AA</color>
+	<color name="label_ek1_color">#FFFFFF</color>
+	<color name="_bg__inputs_ek1_color">#000000</color>
+	<color name="email_color">#9CA3AF</color>
+	<color name="_bg__button_ek3_color">#1F2937</color>
+
+	<!--  dashboard___overview colors  -->
+	<color name="_bg__dashboard___overview_ek2_color">#111827</color>
+	<color name="_bg__header_ek1_color">#000000</color>
+	<color name="rectangle_248_color">#1F2937</color>
+	<color name="dashboard_color">#FFFFFF</color>
+	<color name="rectangle_19_color">#F4F6F9</color>
+	<color name="search_for_something_color">#8BA3CB</color>
+
+</resources>

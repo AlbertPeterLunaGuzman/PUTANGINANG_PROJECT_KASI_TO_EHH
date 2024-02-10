@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- onboarding___sign_in strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="label_string">I dont have a account? Sign up</string>
+	<string name="label_ek1_string">Sign In</string>
+	<string name="email_string">Email</string>
+	<string name="enter_your_email_string">Enter your email</string>
+	<string name="password_string">Password</string>
+	<string name="enter_your_password_string">Enter your password</string>
+	<string name="or_sign_in_with_string">or sign in with</string>
+	<string name="label_ek2_string">Forgot password?</string>
+	<string name="title_ek2_string">Sign in</string>
+	<string name="description_string">Sign in with your email and password to access your account. </string>
+
+	<!--  dashboard___overview strings  -->
+	<string name="dashboard_string">Dashboard</string>
+	<string name="search_for_something_string">Search for something</string>
+</resources>
